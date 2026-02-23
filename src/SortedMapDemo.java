@@ -13,7 +13,6 @@ public class SortedMapDemo {
         map.containsKey(78);
         map.containsValue(77);
 
-
 //        System.out.println(map);
 //        System.out.println(map.firstKey());
 //        System.out.println(map.lastKey());
