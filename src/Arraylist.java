@@ -110,7 +110,6 @@ public class Arraylist {
 
         list.sort((a, b) -> b - a);
         System.out.println(list);*/
-
-
+        
     }
 }
