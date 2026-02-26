@@ -52,7 +52,5 @@ public class VectorDemo {
         }
 
         System.out.println("Size of list: " + list.size()); // Output: 2000
-
-
     }
 }
