@@ -94,10 +94,7 @@ public class Java8Demo {
         List<String> names = Arrays.asList("A", "B", "C");
         List<MobilePhone> mobilePhoneList = names.stream().map(MobilePhone::new).collect(Collectors.toList());
 
-
     }
-
-
 }
 
 class MobilePhone{
